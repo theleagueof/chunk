@@ -1,5 +1,4 @@
 # Prefix: Languagesystems
-# automatic
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn ROM;
