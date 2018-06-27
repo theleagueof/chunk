@@ -40,5 +40,23 @@
       <point x="225" y="195"/>
       <point x="225" y="255" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="317" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="317" y="250" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="317" y="750" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="614" y="500" type="move" name="topright"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 19:38:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="1">
+  <advance width="920"/>
+  <unicode hex="0153"/>
+  <outline>
+    <component base="o"/>
+    <component base="e" xOffset="363"/>
+    <contour>
+      <point x="460" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="460" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 20:07:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

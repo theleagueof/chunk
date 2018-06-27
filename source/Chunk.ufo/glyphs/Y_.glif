@@ -33,5 +33,20 @@
       <point x="377" y="404"/>
       <point x="373" y="384" type="curve"/>
     </contour>
+    <contour>
+      <point x="335" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="335" y="699" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="20" y="699" type="move" name="topleft"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 19:38:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

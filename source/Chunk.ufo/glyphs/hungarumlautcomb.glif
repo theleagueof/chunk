@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb" format="1">
+  <advance width="530"/>
+  <unicode hex="030B"/>
+  <outline>
+    <contour>
+      <point x="292" y="709" type="line"/>
+      <point x="160" y="729" type="line"/>
+      <point x="50" y="604" type="line"/>
+      <point x="122" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="689" type="line"/>
+      <point x="348" y="709" type="line"/>
+      <point x="218" y="604" type="line"/>
+      <point x="290" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="500" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="265" y="729" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 19:44:20 +0000</string>
+    </dict>
+  </lib>
+</glyph>

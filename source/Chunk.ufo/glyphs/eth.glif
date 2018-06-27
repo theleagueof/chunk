@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="1">
+  <advance width="583"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="563" y="246" type="line"/>
+      <point x="563" y="522"/>
+      <point x="492" y="719"/>
+      <point x="197" y="776" type="curve"/>
+      <point x="138" y="662" type="line"/>
+      <point x="162" y="658"/>
+      <point x="352" y="633"/>
+      <point x="352" y="477" type="curve"/>
+    </contour>
+    <contour>
+      <point x="304" y="804" type="line"/>
+      <point x="166" y="580" type="line"/>
+      <point x="227" y="544" type="line"/>
+      <point x="365" y="768" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 20:06:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

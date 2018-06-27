@@ -6,34 +6,49 @@
 	<integer>750</integer>
 	<key>capHeight</key>
 	<integer>699</integer>
+	<key>copyright</key>
+	<string>Copyright © 2018 by Meredith Mandel. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
-	<string>ChunkFive Roman</string>
-	<key>italicAngle</key>
-	<real>0.0</real>
+	<string>ChunkFive</string>
+	<key>note</key>
+	<string>With contributions from Tyler Finck  - www.finck.co
+</string>
 	<key>openTypeHeadCreated</key>
-	<string>2011/05/25 14:51:58</string>
+	<string>2018/06/26 19:35:59</string>
+	<key>openTypeNameDesigner</key>
+	<string>Meredith Mandel</string>
+	<key>openTypeNameManufacturer</key>
+	<string>The League of Moveable Type</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.theleagueofmoveabletype.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>ChunkFive</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Roman</string>
+	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
+		<integer>-19</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>513</integer>
+		<integer>699</integer>
+		<integer>719</integer>
+		<integer>750</integer>
+		<integer>769</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>ChunkFive-Roman</string>
-	<key>postscriptFullName</key>
-	<string>ChunkFive Roman</string>
+	<string>ChunkFive-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
+		<integer>-266</integer>
+		<integer>-250</integer>
 	</array>
-	<key>postscriptWeightName</key>
-	<string>Regular</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
@@ -41,7 +56,7 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>versionMinor</key>
 	<integer>1</integer>
 	<key>xHeight</key>

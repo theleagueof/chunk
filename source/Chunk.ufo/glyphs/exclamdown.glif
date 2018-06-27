@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="308"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <component base="exclam" yScale="-1" yOffset="698"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 20:28:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

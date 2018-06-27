@@ -46,5 +46,17 @@
       <point x="290" y="417" type="line"/>
       <point x="290" y="567" type="line"/>
     </contour>
+    <contour>
+      <point x="344" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="344" y="699" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 19:38:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

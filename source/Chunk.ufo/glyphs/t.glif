@@ -29,5 +29,23 @@
       <point x="69" y="500" type="line"/>
       <point x="15" y="500" type="line"/>
     </contour>
+    <contour>
+      <point x="210" y="-10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="182" y="250" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="182" y="634" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="360" y="592" type="move" name="topright"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 20:21:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

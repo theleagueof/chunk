@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="copyright" format="1">
+  <advance width="737"/>
+  <unicode hex="00A9"/>
+  <outline>
+    <contour>
+      <point x="369" y="-14" type="curve" smooth="yes"/>
+      <point x="566" y="-14"/>
+      <point x="727" y="147"/>
+      <point x="727" y="345" type="curve" smooth="yes"/>
+      <point x="727" y="543"/>
+      <point x="566" y="704"/>
+      <point x="369" y="704" type="curve" smooth="yes"/>
+      <point x="171" y="704"/>
+      <point x="10" y="543"/>
+      <point x="10" y="345" type="curve" smooth="yes"/>
+      <point x="10" y="147"/>
+      <point x="171" y="-14"/>
+    </contour>
+    <contour>
+      <point x="369" y="19" type="curve" smooth="yes"/>
+      <point x="189" y="19"/>
+      <point x="43" y="165"/>
+      <point x="43" y="345" type="curve" smooth="yes"/>
+      <point x="43" y="525"/>
+      <point x="189" y="671"/>
+      <point x="369" y="671" type="curve" smooth="yes"/>
+      <point x="548" y="671"/>
+      <point x="694" y="525"/>
+      <point x="694" y="345" type="curve" smooth="yes"/>
+      <point x="694" y="165"/>
+      <point x="548" y="19"/>
+    </contour>
+    <component base="c" xScale="0.722" yScale="0.722" xOffset="169" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 23:49:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

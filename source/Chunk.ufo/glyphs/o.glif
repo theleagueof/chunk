@@ -31,5 +31,26 @@
       <point x="333" y="115"/>
       <point x="290" y="115" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="287" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="287" y="250" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="517" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="287" y="500" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="554" y="500" type="move" name="topright"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 19:38:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

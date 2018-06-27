@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="342"/>
+  <unicode hex="203A"/>
+  <outline>
+    <component base="guilsinglleft" xScale="-1" xOffset="332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 23:41:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

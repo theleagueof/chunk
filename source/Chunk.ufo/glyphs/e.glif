@@ -37,5 +37,20 @@
       <point x="219" y="379"/>
       <point x="280" y="379" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="271" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="380" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="271" y="500" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 20:20:25 +0000</string>
+    </dict>
+  </lib>
 </glyph>
